@@ -54,7 +54,7 @@ struct BarsView: View {
                 .foregroundColor(.white)
                 .background(limit.legend.color)
                 .clipShape(RoundedRectangle(cornerRadius: 4, style: .continuous))
-        }.offset(y: CGFloat(limit.endValue / self.max) * 75 * (-1) + 8)
+        }.offset(y: CGFloat(limit.endValue / self.max) * 75 * (-1) + 10)
     }
 }
 
