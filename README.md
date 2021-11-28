@@ -1,5 +1,6 @@
 # SwiftUICharts
 A simple line and bar charting library that support accessibility written using SwiftUI.
+Forked by shp7724.
 <img src="screenshots.png"/>
 
 ## Usage
